@@ -28,7 +28,7 @@ https://sketchfab.com/3d-models/bathroom-sink-low-poly-game-ready-45a6ab5e5a1a40
 CHUVEIRO
 https://sketchfab.com/3d-models/grohe-g-3330220a-380644b4a59b4bd5a8d85991de973100
 
-PÁGINA COZINHA
+PÁGINA BANHEIRO
 https://sketchfab.com/3d-models/notebook-torn-page-0ef9886bc96a4c7ba4f6c339c425a206
 
 COZINHA–
