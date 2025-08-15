@@ -81,6 +81,10 @@ https://sketchfab.com/3d-models/wooden-stage-with-bleacher-style-seating-benches
 
 https://sketchfab.com/3d-models/hw-theater-binoculars-b8956700952d4ce69098622d90869bbd
 
+https://sketchfab.com/3d-models/classic-theatre-6b2b23fb26df4514a7474a12b6979b54 (teatro sem texturas)
+
+https://sketchfab.com/3d-models/fnaf-sotm-demonstration-theater-part-1-036aa5bc63124c9eb593ab307bd2011f (teatro de FNAF)
+
 LABIRINTO
 
 https://sketchfab.com/3d-models/bush-6f1920d84d5445f9857da7ba8238fd38
@@ -98,3 +102,4 @@ https://sketchfab.com/3d-models/stylized-bush-v1-7ccbbb3307004ad18bed624e356c597
 
 
 </p>
+
