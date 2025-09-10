@@ -13,6 +13,18 @@ Vitória Santos<br>
 <li>A Bela e a Fera (2014)</li>
 </ul>
 
+
+<h2>Trabalhos das duplas</h2>
+Gaudí e SUsana (1sem): cena do banheiro
+Sabrina e Vitória (1sem): cena da cozinha
+Maria (1sem): cena do tabuleiro
+
+Gaudí e Vitória (2 sem): Teatro
+Maria e Susana (2sem): Tabuleiro foi refeito e labirinto
+Sabrina (2sem): Banner e sala de aula
+
+Cena geral mostra: programação do labirinto
+
 ## Link da wiki
 https://github.com/SouzaDuda/MostraCultural2025/wiki
 
@@ -104,5 +116,6 @@ https://sketchfab.com/3d-models/80s-themed-monster-character-794eb8bf3dfc4f47ac8
 
 
 </p>
+
 
 
